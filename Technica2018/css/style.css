@@ -1,0 +1,98 @@
+body{
+font-family: Helvetica, Arial, Sans-sans-serif;
+font-size: 15px;
+line-height: 1.5;
+padding: 0;
+margin: 0;
+background-color: #181969;
+}
+
+.container{
+  width;80%
+  margin: auto;
+  overflow: hidden;
+}
+
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background: #FFFFFF;
+  padding-top: 30px;
+  padding-left: 30px;
+  min-height: 70px;
+  border-bottom: #181969 3px solid;
+
+}
+
+header a{
+  color: #181969;
+  text-decoration: none;
+  text-transforms: uppercase;
+  font-size: 16px;
+}
+
+
+header li{
+  float: left;
+  display: block;
+  padding:0 20px 0 20px;
+}
+
+ header #branding{
+  float: left;
+}
+
+header #branding h1{
+  margin: 0;
+}
+
+header nav{
+  float:right;
+  margin-top: 10px;
+}
+
+header a:hover{
+  color: #181969;
+  font-weight: bold;
+}
+
+#showcase{
+  min-height: 400px;
+   background: url('../ing/showcase.jpg') no-repeat 0 -400px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#showcase h1{
+  margin-top: 20%;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+#showcase p{
+  font-size: 20px;
+}
+
+#showcase-upper{
+  min-height: 400px;
+  background: url('../ing/up-show.jpg') no-repeat 0 -400px;
+  text-align: center;
+  color: #ffffff;
+}
+#showcase-upper{
+  margin-top: 5%;
+  font-size: 30px;
+  margin-bottom: 10%;
+}
+
+footer{
+  padding: 30px;
+  margin-top: 20px;
+  color: #181969;
+  background-color: #FFFFFF;
+  text-align: center;
+}
