@@ -83,10 +83,17 @@ header a:hover{
   text-align: center;
   color: #ffffff;
 }
-#showcase-upper{
+#showcase-upper h1{
   margin-top: 5%;
   font-size: 30px;
-  margin-bottom: 10%;
+  margin-bottom: 1%;
+}
+
+#showcase-upper p{
+  margin-top: 0;
+  font-size: 20px;
+  margin bottom: 5%;
+
 }
 
 footer{
